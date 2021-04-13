@@ -10,6 +10,7 @@ Microtasks:
 Download and configure Augur, creating a dev environment
 I have installed Augur in dev mode with command `make install-dev`.
 <br>
+
 - Microstask 1:
 Work on any Augur Issue that's Open
  I'm trying to!
