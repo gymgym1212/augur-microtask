@@ -32,4 +32,4 @@ Anything you want to show us. Even if you find bugs in our documentation and wan
 ![top10_developers](./img/top10_developers.jpg)
 <br>I made a simple report to show the Top10 active developers by measuring their numbers of PR using [augur-community-reports](https://github.com/chaoss/augur-community-reports).
 <br>
-You can also see my result in the [Jupyter Notebook](./Top10_pull_request_developers_in_augur.ipynb). But it seems that the mailbox display is incomplete due to lack of data.
+You can also see my result in the <a href="./Top10_pull_request_developers_in_augur.ipynb">Jupyter Notebook</a>. But it seems that the mailbox display is incomplete due to lack of data.
